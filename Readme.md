@@ -1,3 +1,9 @@
+![Logo](https://www.mpl.live/static/hamburger/mpl-logo.png)
+
+# Clone of Mpl.live
+
+
+
 Hey there, hope you are doing well. I would like to introduce me first. My name is **Dharmesh**. I am from non CS background . But currently learning Web Development in **Masai School**. At the end of every unit Construct week happens and this was our first construct week. We got a project where we have to clone [MPL.live](https://www.mpl.live/) website with the time bound of seven days. But we have done our work just in three days by using **HTML, CSS, JS**. 
 
  
@@ -7,14 +13,46 @@ So coming to the project, there is a lots of challenge we got. The below snapsho
 
 
 
+# Technology we use
 
 
+## Frontend
+- HTML
+- CSS
+- JAVASCRIPT
 
+
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Primary Color  | ![#eb2226](https://via.placeholder.com/10/eb2226?text=+) #eb2226 |
+| Backgroud color | ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) #ffffff |
+
+## Acknowledgements
+
+ - [makemytrip.com](https://www.mpl.live/)
+ - [Masai School](https://masaischool.com/)
+  
+  ## Authors
+
+- [Dharmesh Yadav](https://github.com/dharmeshrao)
+
+- [Mukunda](https://github.com/mukundakamatham)
+
+
+## Home Page
 ![Screenshot (25).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1630232750133/mVONGRI3a.png)
+
+## Bottom Page
 
 ![Screenshot (30).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1630232833094/0wXVIshXB.png)
 
+## Navbar
+
 ![Screenshot (31).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1630232857202/VmJJ_JXYzY.png)
+
+## Esports Page
 
 ![Screenshot (33).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1630232894171/2cizp8T4U.png)
 
@@ -24,6 +62,7 @@ So coming to the project, there is a lots of challenge we got. The below snapsho
 
 ![Screenshot (36).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1630232934859/rVFfLsWQQ.png)
 
+## Responsive
 We make sure that our website is fully responsive for all screen sizes. 
 ![Screenshot (37).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1630232950980/bmSN1XKj4.png)
 
