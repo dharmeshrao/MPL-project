@@ -31,7 +31,7 @@ So coming to the project, there is a lots of challenge we got. The below snapsho
 
 ## Acknowledgements
 
- - [makemytrip.com](https://www.mpl.live/)
+ - [Mpl.live](https://www.mpl.live/)
  - [Masai School](https://masaischool.com/)
   
   ## Authors
